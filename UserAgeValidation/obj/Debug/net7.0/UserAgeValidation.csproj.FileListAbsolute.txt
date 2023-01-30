@@ -1,0 +1,15 @@
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.deps.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.runtimeconfig.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.csproj.AssemblyReference.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.AssemblyInfoInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.AssemblyInfo.cs
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.csproj.CoreCompileInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/refint/UserAgeValidation.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.genruntimeconfig.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/ref/UserAgeValidation.dll

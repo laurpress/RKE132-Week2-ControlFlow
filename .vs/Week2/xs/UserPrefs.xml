@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E742C747-38BD-48E2-AEEE-0D3335B03252}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserAgeValidation1/Program.cs">
+    <Files>
+      <File FileName="UserAgeValidation/Program.cs" Line="25" Column="32" />
+      <File FileName="UserAgeValidation1/Program.cs" Line="23" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week2" expanded="True">
+            <Node name="UserAgeValidation" expanded="True" />
+            <Node name="UserAgeValidation1" expanded="True" />
+            <Node name="UserGenderValidation" expanded="True" />
+            <Node name="Week2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Week2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UserAgeValidation1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UserGenderValidation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UserAgeValidation FirstBuild="True" />
+</Properties>

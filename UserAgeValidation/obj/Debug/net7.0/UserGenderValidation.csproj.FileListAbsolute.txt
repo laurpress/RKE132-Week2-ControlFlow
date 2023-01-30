@@ -1,0 +1,15 @@
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserGenderValidation
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserGenderValidation.deps.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserGenderValidation.runtimeconfig.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserGenderValidation.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/bin/Debug/net7.0/UserGenderValidation.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.csproj.AssemblyReference.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.AssemblyInfoInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.AssemblyInfo.cs
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.csproj.CoreCompileInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/refint/UserGenderValidation.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/UserGenderValidation.genruntimeconfig.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week2/UserAgeValidation/obj/Debug/net7.0/ref/UserGenderValidation.dll
